@@ -72,3 +72,31 @@ h1 {
 .donate-today {
     text-align: center;
 }
+
+.food-card {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.family-food {
+    background-color: rgb(160, 226, 226);
+    padding: 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.family-shelter {
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.family-education {
+    background-color: rgb(67, 99, 99);
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+
+}
