@@ -100,3 +100,20 @@ h1 {
     margin-left: 10px;
 
 }
+
+.donation {
+    margin-top: 100px;
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.half-width {
+    width: 40%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 100%;
+}
