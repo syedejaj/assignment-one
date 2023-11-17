@@ -2,7 +2,13 @@ body,
 html {
     margin: 0;
     height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
+}
+
+p {
+    color: gray;
 }
 
 h1 {
@@ -116,4 +122,23 @@ h1 {
 
 .half-width img {
     width: 100%;
+}
+
+footer {
+    background-color: black;
+    padding: 50px;
+    margin-top: 50px;
+
+}
+
+
+footer h3 {
+    color: brown;
+    text-align: center;
+    font-family: 'Lobster', sans-serif;
+}
+
+footer p {
+    text-align: center;
+    color: white;
 }
